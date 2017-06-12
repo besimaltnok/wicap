@@ -3,6 +3,7 @@
 from scapy.all import *
 import termcolor
 import colorema
+import sys
 
 def wicap(pkt):
    pass
