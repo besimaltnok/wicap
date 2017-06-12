@@ -28,6 +28,7 @@
 + Access Points İnformation Lists
 + SSID Information Lists
 + List Fake Access Points
++ Hidden Networks
 + OPN Networks
 + WEP Networks
 + WPA2 Networks
@@ -36,4 +37,3 @@
 #### Modules Used
 
 + Scapy
-+ Argparse
